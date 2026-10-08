@@ -222,4 +222,4 @@ Open `http://127.0.0.1:5000` to test a protected HTML form and a JSON `fetch()` 
 - [PunPoon](https://github.com/punpoon16) — Contributor
 - [Velupra](https://github.com/phitchadal-ship-it) — Contributor
 - [Cake](https://github.com/ChayadaBo) — Contributor
-- [chocrypto](https://github.com/chotikaset-crypto) - Contributor
+- [chocrypto](https://github.com/chotikaset-crypto) — Contributor
