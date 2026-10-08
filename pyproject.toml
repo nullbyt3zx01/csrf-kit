@@ -17,7 +17,9 @@ classifiers = [
   "Framework :: Flask",
   "Programming Language :: Python :: 3",
   "Topic :: Security",
-][build-system]
+]
+
+[build-system]
 requires = ["hatchling>=1.27"]
 build-backend = "hatchling.build"
 
