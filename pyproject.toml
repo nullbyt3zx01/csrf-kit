@@ -19,27 +19,6 @@ classifiers = [
   "Topic :: Security",
 ]
 
-[build-system]
-requires = ["hatchling>=1.27"]
-build-backend = "hatchling.build"
-
-[project]
-name = "csrf-kit"
-version = "0.1.0"
-description = "Simple Flask CSRF protection with a Python standard-library token engine."
-readme = "README.md"
-requires-python = ">=3.10"
-license = "MIT"
-license-files = ["LICENSE"]
-dependencies = ["Flask>=3.1,<4", "MarkupSafe>=2.1", "Werkzeug>=3.1,<4"]
-keywords = ["flask", "csrf", "security"]
-classifiers = [
-  "Development Status :: 3 - Alpha",
-  "Framework :: Flask",
-  "Programming Language :: Python :: 3",
-  "Topic :: Security",
-]
-
 [project.urls]
 Homepage = "https://github.com/nullbyt3zx01/csrf-kit"
 Repository = "https://github.com/nullbyt3zx01/csrf-kit"
